@@ -12,6 +12,7 @@
 | [0001-two-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0002-add-two-numbers](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -80,4 +83,20 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
