@@ -13,11 +13,13 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
@@ -28,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +38,7 @@
 | [0007-reverse-integer](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +98,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Game Theory
 |  |
 | ------- |
@@ -106,4 +111,24 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
