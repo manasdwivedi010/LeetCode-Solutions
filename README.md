@@ -55,6 +55,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
@@ -66,6 +67,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Manacher
 |  |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
 | ------- |
