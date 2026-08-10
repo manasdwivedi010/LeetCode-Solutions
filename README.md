@@ -41,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
@@ -71,6 +72,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Manacher
 |  |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -109,10 +112,12 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Segment Tree
 |  |
 | ------- |
@@ -155,4 +160,12 @@
 | [0176-second-highest-salary](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
