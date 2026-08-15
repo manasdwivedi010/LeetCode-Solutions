@@ -202,6 +202,7 @@
 | [0176-second-highest-salary](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
+| [0584-find-customer-referee](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 ## Nim Game
 |  |
 | ------- |
