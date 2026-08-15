@@ -91,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -112,10 +113,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -237,4 +241,8 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
