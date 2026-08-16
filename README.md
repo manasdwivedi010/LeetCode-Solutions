@@ -45,6 +45,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -74,6 +75,7 @@
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
