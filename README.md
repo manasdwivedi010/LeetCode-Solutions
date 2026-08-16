@@ -25,6 +25,7 @@
 | [1406-stone-game-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -232,6 +234,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
