@@ -12,14 +12,14 @@ class Solution(object):
             if nums[mid] == target:
                 return mid
 
-            # Left half is sorted
+        
             if nums[left] <= nums[mid]:
                 if nums[left] <= target < nums[mid]:
                     right = mid - 1
                 else:
                     left = mid + 1
             else:
-                # Right half is sorted
+            
                 if nums[mid] < target <= nums[right]:
                     left = mid + 1
                 else:
