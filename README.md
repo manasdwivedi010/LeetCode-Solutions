@@ -28,6 +28,7 @@
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -39,6 +40,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
@@ -66,6 +68,7 @@
 | [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -198,6 +202,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Euclidean Algorithm
@@ -245,6 +250,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
