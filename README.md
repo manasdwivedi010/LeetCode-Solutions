@@ -67,6 +67,7 @@
 | [1406-stone-game-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1927-sum-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -83,6 +84,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1927-sum-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -129,6 +131,7 @@
 | [0011-container-with-most-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1927-sum-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
@@ -174,6 +177,7 @@
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
