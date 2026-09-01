@@ -36,6 +36,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -60,6 +61,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -168,6 +170,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
 | ------- |
@@ -279,6 +283,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
