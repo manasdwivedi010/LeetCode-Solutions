@@ -40,6 +40,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
