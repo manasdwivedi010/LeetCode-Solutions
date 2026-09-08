@@ -158,6 +158,7 @@
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -176,6 +178,7 @@
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -186,6 +189,7 @@
 | [0100-same-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
