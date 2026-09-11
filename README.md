@@ -133,6 +133,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -165,6 +166,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -176,6 +178,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -201,6 +204,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
@@ -340,6 +344,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -350,4 +355,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
