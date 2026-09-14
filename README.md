@@ -78,6 +78,7 @@
 | [0007-reverse-integer](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0836-rectangle-overlap](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -369,4 +370,8 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
