@@ -1,16 +1,17 @@
-class Solution:
-    def findPairs(self, nums: List[int], k: int) -> int:
-
-
-        a=0
-        c=Counter(nums)
-            
-        if k==0:
-            for key,v in c.items():
-                if v>1:
-                    a+=1
-        else:
-            for key,v in c.items():
-                if key+k in c:
-                    a+=1
-        return a
+class Solution(object):
+    def findPairs(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        pair = set()
+        n = len(nums)
+        for i in range(n):
+            for j in range(i+1, n):
+                if abs(nums[i] - nums[j]) == k:
+                    a, b = nums[i], nums[j]
+                    if a > b:
+                        a, b = b, a
+                    pair.add((a, b))
+        return len(pair)
