@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0835-image-overlap](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -51,6 +52,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -64,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -128,6 +131,7 @@
 | [0042-trapping-rain-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -322,6 +326,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
