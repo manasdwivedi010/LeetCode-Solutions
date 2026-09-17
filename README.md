@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -148,6 +149,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
