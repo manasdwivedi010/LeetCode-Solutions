@@ -9,6 +9,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
