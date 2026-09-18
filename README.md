@@ -72,6 +72,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -115,6 +116,7 @@
 | [0091-decode-ways](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -177,6 +179,7 @@
 | [0011-container-with-most-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -342,6 +345,7 @@
 | [0047-permutations-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
