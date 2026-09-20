@@ -127,6 +127,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -418,4 +419,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
