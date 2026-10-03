@@ -133,6 +133,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0091-decode-ways) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
