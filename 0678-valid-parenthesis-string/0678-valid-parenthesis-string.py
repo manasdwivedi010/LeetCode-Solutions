@@ -20,4 +20,3 @@ class Solution(object):
                 return False
             low = max(low, 0)
         return low == 0
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
