@@ -138,6 +138,7 @@
 | [0115-distinct-subsequences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -189,6 +190,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -213,6 +215,7 @@
 | [0011-container-with-most-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -411,6 +414,7 @@
 | [0042-trapping-rain-water](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -465,6 +469,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
