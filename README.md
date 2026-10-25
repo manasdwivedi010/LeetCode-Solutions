@@ -34,6 +34,7 @@
 | [0835-image-overlap](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1352-product-of-the-last-k-numbers](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -286,6 +287,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -302,6 +304,7 @@
 | [0226-invert-binary-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -409,6 +412,7 @@
 | [0048-rotate-image](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
@@ -557,6 +561,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
