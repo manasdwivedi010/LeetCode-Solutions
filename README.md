@@ -69,6 +69,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -148,6 +149,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
