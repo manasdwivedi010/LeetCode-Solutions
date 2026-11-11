@@ -158,6 +158,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -283,6 +284,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Tree
 |  |
 | ------- |
