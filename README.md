@@ -201,6 +201,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -232,6 +233,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -261,6 +263,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
