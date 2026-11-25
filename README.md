@@ -89,6 +89,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -654,4 +657,16 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
