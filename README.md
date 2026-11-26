@@ -166,6 +166,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -609,6 +610,7 @@
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
