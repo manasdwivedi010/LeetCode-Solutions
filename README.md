@@ -91,6 +91,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -638,6 +641,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manasdwivedi010/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
